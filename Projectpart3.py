@@ -2,26 +2,6 @@
 # coding: utf-8
 
 # # PS 88 Project Part 3 - Due 12/14 at 11:59pm
-# 
-# The goal of the final part of the project is to extend the analysis of one of the replication papers, or any other data set we have worked on in any of the labs or class examples. (If you want to work with a different data set that will probably be fine too, but check with the instructors first.) 
-# 
-# Regardless of dataset you start with, the goal is to provide new theoretical insights by introducing some new data and running some new analysis.
-# 
-# The parameters here will be much looser; the only concrete requirements are that you (1) do at least one merging of different data frames, and (2) run at least two new regressions and create at least two visualizations (histograms, scatterplots, line plots, etc), some of which involve the "new" variables you merged in.
-# 
-# On the second part, here are some ideas of what doing new analysis might entail, some of which will work better than others depending on what data you start with:
-# - Run the analysis with a different dependent variable
-# - Run the analysis with a different independent variable
-# - Run the analysis on a subset of the data, where we might expect the causal effect to be different
-# - Add a control variable to the regression that might help control for some confounding variable
-# 
-# See the relevant Piazza posts for some pointers to potentially useful data sources and tips for merging them properly.
-# 
-# In terms of formatting, add as many code/mardown cells as you need below. We provide some general guidance about how much writing/coding to do, but you don't necesarily need to worry if yours is a bit shorter or longer. Feel free to check with us if you are unsure!
-# 
-# A final hint: you may want to complete step 1 last, or at least after you have done the main analysis in steps 2 and 3.
-# 
-# 
 
 # ## Step 1: Theory
 # 
